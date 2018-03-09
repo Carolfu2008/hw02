@@ -1,4 +1,4 @@
-Hw02\_Huiqing\_Fu
+Hw02 -Shot Charts
 ================
 Huiqing Fu
 3/1/2018
@@ -924,7 +924,7 @@ shots_thompson
   geom_rect(alpha= 0.008,aes(x=minute, y =count, xmin = 0, xmax=12, ymin=-Inf, ymax=Inf), fill = "black")+
 geom_rect(alpha=0.008,aes(x=minute, y =count,xmin = 24, xmax=36, ymin=-Inf, ymax=Inf),  fill = "black")+  #col = "grey",fill = "black"
   ggtitle("Total Number of Shots")+
-  #theme_minimal()+
+  theme_minimal()+
   facet_wrap(~player)
 ```
 
