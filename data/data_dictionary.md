@@ -4,8 +4,10 @@ author: "Huiqing Fu"
 date: "3/1/2018"
 output: html_document
 ---
-https://cran.r-project.org/web/packages/dataMeta/vignettes/dataMeta_Vignette.html
-####variable names
+
+##variable names
+From hw02. NBA player data.  
+
 
 |var_name|	var_desc|	var_type|
 |-------------|-----------------------------|----------|
@@ -25,7 +27,7 @@ https://cran.r-project.org/web/packages/dataMeta/vignettes/dataMeta_Vignette.htm
 |y| y refer to the court y coordinate (measured in inches) where a shot occurred .|integer|
 |minute|value of minutes. minutes=period*12-minutes_remaining|double|
 
-
-
+ref:
+https://cran.r-project.org/web/packages/dataMeta/vignettes/dataMeta_Vignette.html
 
 
