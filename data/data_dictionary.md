@@ -5,7 +5,7 @@ date: "3/1/2018"
 output: html_document
 ---
 
-Data Dictionary    
+__Data Dictionary__    
 From hw02. NBA player data.  
 
 
